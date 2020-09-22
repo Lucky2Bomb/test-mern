@@ -1,0 +1,7 @@
+{
+    "port": 3001,
+    "mongoURI": "mongodb+srv://petuch:1234bomb@cluster0.eavkp.mongodb.net/app?retryWrites=true&w=majority",
+    "JWTSecretKey": "rpyjhrgkvop4rgew3",
+    "baseUrl": "http://localhost:3000"
+
+}
